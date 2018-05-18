@@ -17,16 +17,6 @@ Username: ikbengewoon
 Wachtwoord: geenrechten
 
 
-
-### Admin
-
-
-Username: admin123 
-
-
-Wachtwoord: admin123
-
-
 ### Extra
 
 Indien de chat module wilt worden getest moeten er 2 tabs open staan op het correcte effect ervan te zien.
